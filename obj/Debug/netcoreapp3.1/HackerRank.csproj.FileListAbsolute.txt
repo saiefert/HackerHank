@@ -1,0 +1,11 @@
+C:\Users\josmar.silva\source\repos\HackerRank\HackerRank\bin\Debug\netcoreapp3.1\HackerRank.exe
+C:\Users\josmar.silva\source\repos\HackerRank\HackerRank\bin\Debug\netcoreapp3.1\HackerRank.deps.json
+C:\Users\josmar.silva\source\repos\HackerRank\HackerRank\bin\Debug\netcoreapp3.1\HackerRank.runtimeconfig.json
+C:\Users\josmar.silva\source\repos\HackerRank\HackerRank\bin\Debug\netcoreapp3.1\HackerRank.runtimeconfig.dev.json
+C:\Users\josmar.silva\source\repos\HackerRank\HackerRank\bin\Debug\netcoreapp3.1\HackerRank.dll
+C:\Users\josmar.silva\source\repos\HackerRank\HackerRank\bin\Debug\netcoreapp3.1\HackerRank.pdb
+C:\Users\josmar.silva\source\repos\HackerRank\HackerRank\obj\Debug\netcoreapp3.1\HackerRank.csprojAssemblyReference.cache
+C:\Users\josmar.silva\source\repos\HackerRank\HackerRank\obj\Debug\netcoreapp3.1\HackerRank.AssemblyInfoInputs.cache
+C:\Users\josmar.silva\source\repos\HackerRank\HackerRank\obj\Debug\netcoreapp3.1\HackerRank.AssemblyInfo.cs
+C:\Users\josmar.silva\source\repos\HackerRank\HackerRank\obj\Debug\netcoreapp3.1\HackerRank.dll
+C:\Users\josmar.silva\source\repos\HackerRank\HackerRank\obj\Debug\netcoreapp3.1\HackerRank.pdb
